@@ -1,0 +1,121 @@
+{
+    "feed": {
+        "title": "付費 App 排行",
+        "id": "https://rss.applemarketingtools.com/api/v2/hk/apps/top-paid/10/apps.json",
+        "author": {
+            "name": "Apple",
+            "url": "https://www.apple.com/"
+        },
+        "links": [
+            {
+                "self": "https://rss.applemarketingtools.com/api/v2/hk/apps/top-paid/10/apps.json"
+            }
+        ],
+        "copyright": "Copyright © 2022 Apple Inc. All rights reserved.",
+        "country": "hk",
+        "icon": "https://www.apple.com/favicon.ico",
+        "updated": "Wed, 22 Jun 2022 06:49:38 +0000",
+        "results": [
+            {
+                "artistName": "Shadow Launch Technology Limited",
+                "id": "932747118",
+                "name": "Shadowrocket",
+                "releaseDate": "2015-04-14",
+                "kind": "apps",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/9a/41/059a41e0-c839-8b8a-04c1-15dd08216b54/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/shadowrocket/id932747118"
+            },
+            {
+                "artistName": "SEEKRTECH CO., LTD.",
+                "id": "866450515",
+                "name": "Forest 專注森林",
+                "releaseDate": "2014-05-10",
+                "kind": "apps",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/c2/e7/0cc2e71a-2322-02ec-3f07-27e78f03c2b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97/id866450515"
+            },
+            {
+                "artistName": "Cheol Kim",
+                "id": "1436429074",
+                "name": "FILCA - SLR Film Camera",
+                "releaseDate": "2018-09-22",
+                "kind": "apps",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/db/16/c3/db16c3dd-dd6d-4ae3-82c6-82cf2b91e904/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/filca-slr-film-camera/id1436429074"
+            },
+            {
+                "artistName": "Tantsissa",
+                "id": "1164801111",
+                "name": "AutoSleep – 在手錶上追蹤睡眠",
+                "releaseDate": "2016-12-20",
+                "kind": "apps",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/67/2b/2e/672b2e9e-78c1-f689-8ba4-5c1ea13c2c43/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/autosleep-%E5%9C%A8%E6%89%8B%E9%8C%B6%E4%B8%8A%E8%BF%BD%E8%B9%A4%E7%9D%A1%E7%9C%A0/id1164801111"
+            },
+            {
+                "artistName": "Savage Interactive Pty Ltd",
+                "id": "916366645",
+                "name": "Procreate Pocket",
+                "releaseDate": "2014-12-17",
+                "kind": "apps",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a4/c2/f9a4c260-c73a-42a9-f1d1-cc08eca3f74e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/procreate-pocket/id916366645"
+            },
+            {
+                "artistName": "Fanship",
+                "id": "402012828",
+                "name": "iSafe Pro",
+                "releaseDate": "2010-12-14",
+                "kind": "apps",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/ae/79/4dae79fa-dcd6-5e76-4c35-9f16932f5824/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/isafe-pro/id402012828"
+            },
+            {
+                "artistName": "STASH NETWORKS LIMITED",
+                "id": "1596063349",
+                "name": "Stash",
+                "releaseDate": "2021-12-10",
+                "kind": "apps",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/e9/18/e0e91846-6c05-a2dd-5d36-f46ba15f0fb8/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/stash/id1596063349"
+            },
+            {
+                "artistName": "传霞 熊",
+                "id": "1617513306",
+                "name": "自动重拨 - auto redial",
+                "releaseDate": "2022-04-04",
+                "kind": "apps",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/d1/27/d7d127f0-bd64-7ef4-884e-6305504f484e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/%E8%87%AA%E5%8A%A8%E9%87%8D%E6%8B%A8-auto-redial/id1617513306"
+            },
+            {
+                "artistName": "ADVA Soft GmbH",
+                "id": "373311252",
+                "name": "TouchRetouch",
+                "releaseDate": "2010-06-08",
+                "kind": "apps",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/55/1d/58/551d5825-9311-62b3-da17-d3281db9bb20/AppIconBasic-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/touchretouch/id373311252"
+            },
+            {
+                "artistName": "Focus Multimedia",
+                "id": "829581836",
+                "name": "Driving Theory Test 4 in 1 Kit",
+                "releaseDate": "2014-08-18",
+                "kind": "apps",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/57/fa/c057fa3f-3375-79b4-3de6-24508cb46b0d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+                "genres": [],
+                "url": "https://apps.apple.com/hk/app/driving-theory-test-4-in-1-kit/id829581836"
+            }
+        ]
+    }
+}
